@@ -126,21 +126,8 @@ Conclusion
 One of the major inferences that we can make during the study is that the Relative humidity of the ambient air makes a great difference in the effectiveness of an evaporative cooler. The graphs below show that during a spike in the relative humidity, there is a sharp drop in the temperature variation and a drop in evaporator effectiveness
 
 
-![image](https://github.com/hussainsail2002/Air-Cooler-Design-using-Matlab/assets/32453875/eb311b96-ab70-4bb0-b2b3-3ffbcbc1b3f9)
 
 
-Figure 8: Exit Temperature Range shown with Ambient air conditions
-
-
-
-
-
-![image](https://github.com/hussainsail2002/Air-Cooler-Design-using-Matlab/assets/32453875/ea65ab5d-cbbe-4cc9-ac3a-23e11bd7a42c)
-
-
-
- 
-Figure 9: Effectiveness of the evaporator with Ambient air conditions
 
 It can be seen that the highest effectiveness of the cooler is reached when the RH is at the lowest and the lowest effectiveness is reached when the RH is at the highest point. This follows the thermodynamic laws as when the air is dry it can easily absorb more moisture and water from its surroundings and hence decrease its temperature by a greater extent than if the air was already carrying more water.
 The temperature values are indicated in degree Celsius and the mass of water is shown in Kg per hour. 
